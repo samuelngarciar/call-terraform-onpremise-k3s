@@ -3,6 +3,6 @@ module "k3s" {
   version = "1.0.3"
 
   k3srelease = "v1.28.3+k3s2"
-  k3stoken = 123456789
+  k3stoken = 12345678
 
 }
